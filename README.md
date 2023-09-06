@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I'm currently working @ Thrrive.fit, a startup that seeks to use AI/ML in the Yoga Space
+🌱 I’m currently learning Computer Architecture and Optimization Models in Engineering
+⚡ Fun fact: Im a big Barca fan ⚽ 
+
 
 <!--
 **dhruvahuja19/dhruvahuja19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
