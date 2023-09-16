@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I'm currently working @ Thrrive.fit, a startup that seeks to use AI/ML in the Yoga Space
-
-🌱 I’m currently learning Computer Architecture and Optimization Models in Engineering
+🔭 I'm currently working @ Thrrive.fit, a startup that seeks to use AI/ML in the Yoga Space <br>
+ 
+🌱 I’m currently learning Computer Architecture and Optimization Models in Engineering <br>
 
 ⚡ Fun fact: I'm a big Barca fan ⚽ 
 
