@@ -1,9 +1,12 @@
 ### Hi there 👋
 🔭 I'm currently working @ Thrrive.fit, a startup that seeks to use AI/ML in the Yoga Space <br>
+
+🔭 I'm also working on a Poker Bot project that seeks to leverage probabilistic modeling.
  
 🌱 I’m currently learning Computer Architecture and Optimization Models in Engineering <br>
 
-⚡ Fun fact: I'm a big Barca fan ⚽ 
+⚡ Fun fact: I'm a huge ⚽ fan, and currently play club Soccer here at Cal<br>
+
 
 
 <!--
