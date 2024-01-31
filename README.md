@@ -1,9 +1,9 @@
 ### Hi there 👋
-🔭 I'm currently working @ Thrrive.fit, a startup that seeks to use AI/ML in the Yoga Space <br>
+🔭 I'm currently working @ Pranos.AI as an embedded firmware software engineer. I'll be focusing on firmware optimization and systems connectivity. 
 
-🔭 I'm also working on a Poker Bot project that seeks to leverage probabilistic modeling.
+🔭 I'm also doing research with the BLISS Group, specifically looking at multi-item, multi-user markets and building recommender systems and algorithms under price allocations and constraints.
  
-🌱 I’m currently learning Computer Architecture and Optimization Models in Engineering <br>
+🌱 I’m currently taking Berkeley's ML Class, in addition to a Database Class
 
 ⚡ Fun fact: I'm a huge ⚽ fan, and currently play club Soccer here at Cal<br>
 
