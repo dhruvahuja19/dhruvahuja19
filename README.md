@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-🔭 Current Work: 
+🔭 Current Work: <br>
 I'm currently working @ Pranos.AI as an embedded firmware software engineer. I'll be focusing on firmware optimization and systems connectivity. I'm also engaging in research with the BLISS Group, specifically looking at multi-item, multi-user markets and building recommender systems and algorithms under price allocations and constraints.
 
-🌱 Current Classes
-CS189: Introduction to Machine Learning 
-CS186: Introduction to Databases 
+🌱 Current Classes: <br> 
+CS189: Introduction to Machine Learning <br> 
+CS186: Introduction to Databases <br> 
 
-Current Organizations: 
-UC Berkeley Nova Consulting: Techincal Project Manager 
-UC Berkeley Men's Club Soccer: Player & Officer 
-Phi Kappa Sigma Fraternity: Member 
+Current Organizations: <br> 
+UC Berkeley Nova Consulting: Techincal Project Manager <br>
+UC Berkeley Men's Club Soccer: Player & Officer <br>
+Phi Kappa Sigma Fraternity: Member <br>
 
-Former Organizations: 
-Computer Science Mentors: (Junior Mentor for CS61B, CS70) 
-61B Course Staff(Tutor)
+Former Organizations: <br>
+Computer Science Mentors: (Junior Mentor for CS61B, CS70) <br>
+61B Course Staff(Tutor)<br>
 
 
 <!--
