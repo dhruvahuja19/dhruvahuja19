@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🔭 Current Work: <br>
-I'm currently working @ Pranos.AI as an embedded firmware software engineer. I'll be focusing on firmware optimization and systems connectivity. I'm also engaging in research with the BLISS Group, specifically looking at multi-item, multi-user markets and building recommender systems and algorithms under price allocations and constraints.
+This summer, I'll be working @ [DevRev](https://devrev.ai/about), focusing on NLP Tasks. I'm also researching with the BLISS Group Here at Berkeley, where I'm focusing on ML algorithms in multi-item, multi-user marketplaces operating under price and allocation constraints. Specifically, I'm working on building models that predict human behavior in these marketplaces using techniques like neural collaborative filtering and DLRM's.
+
 
 🌱 Current Classes: <br> 
 CS189: Introduction to Machine Learning <br> 
