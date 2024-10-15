@@ -5,7 +5,8 @@ This summer, I'll be working @ [DevRev](https://devrev.ai/about), focusing on NL
 
 
 🌱 Current Classes: <br> 
-N/A
+CS 194: LLM Agents
+DS C182: Deep Learning
 
 Current Organizations: <br> 
 UC Berkeley Nova Consulting: Techincal Project Manager <br>
@@ -26,6 +27,9 @@ CS70: Discrete Mathemtics and Probability Theory: A <br>
 CS61C: Computer Architecture: A- <br> 
 CS61B: Data Structures and Algorithms: A+ <br> 
 CS61A: Structure and Interpretation of Computer Programs: A- <br> 
+
+
+
 
 
 <!--
