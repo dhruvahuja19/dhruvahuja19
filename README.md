@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🔭 Current Work: <br>
-This summer, I'll be working @ [DevRev](https://devrev.ai/about), focusing on NLP Tasks. I'm also researching with the BLISS Group Here at Berkeley, where I'm focusing on ML algorithms in multi-item, multi-user marketplaces operating under price and allocation constraints. Specifically, I'm working on building models that predict human behavior in these marketplaces using techniques like neural collaborative filtering and DLRM's.
+Deep Learning @ Bliss Lab
+Agent Benchmark Creation @ Rise Lab
 
 
 🌱 Current Classes: <br> 
