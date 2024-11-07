@@ -5,7 +5,7 @@ This summer, I'll be working @ [DevRev](https://devrev.ai/about), focusing on NL
 
 
 🌱 Current Classes: <br> 
-CS 194: LLM Agents
+CS 194: LLM Agents <br>
 DS C182: Deep Learning
 
 Current Organizations: <br> 
