@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 Current Work: <br>
-Deep Learning @ Bliss Lab
+Deep Learning @ Bliss Lab <br>
 Agent Benchmark Creation @ Rise Lab
 
 
